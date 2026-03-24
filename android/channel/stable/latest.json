@@ -1,0 +1,15 @@
+{
+  "platform": "android-apk",
+  "channel": "stable",
+  "package_name": "com.salahkiosk.androidshell",
+  "version": "0.4.0-phase3-milestonea",
+  "version_code": 5,
+  "published_at": "2026-03-24T23:18:00Z",
+  "artifact": {
+    "type": "apk",
+    "url": "https://raw.githubusercontent.com/ILHAM-inc/AdhanKiosk/gh-pages/android/artifacts/0.4.0-phase3-milestonea/app-debug.apk",
+    "sha256": "ade40f1b9ec800dfaf16f4889557b7cc5abebab3c07faa41a0e6acb68a771de0",
+    "size_bytes": 49349172
+  },
+  "notes": "Operator-confirmed APK install required unless the target device is provisioned with stronger installer privileges."
+}
